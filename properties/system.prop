@@ -7,6 +7,16 @@ media.stagefright.thumbnail.prefer_hw_codecs=true
 # QTI
 ro.vendor.qti.va_aosp.support=1
 
+# Log
+persist.log.tag.ACDB-LOADER=S
+persist.log.tag.RippleDrawable=S
+persist.log.tag.BackupHelper=S
+persist.log.tag.ctbc=S
+persist.log.tag.BitmapFactory=S
+persist.log.tag.minksocket=S
+persist.log.tag.QTI PowerHal=S
+persist.log.tag.QC-time-services=S
+
 # Radio
 ril.subscription.types=NV,RUIM
 persist.vendor.vonr_setting_support=1
