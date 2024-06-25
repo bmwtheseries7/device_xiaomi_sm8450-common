@@ -656,7 +656,7 @@
       "PowerHint": "EXPENSIVE_RENDERING",
       "Node": "GPUMinFreq",
       "Duration": 0,
-      "Value": "550000000"
+      "Value": "840000000"
     },
     {
       "PowerHint": "INTERACTIVE",
